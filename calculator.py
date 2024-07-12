@@ -14,5 +14,10 @@ def divide_new(a, b):
 def get_Madian(a, b):
   return (a+b)/2
 
-def get_Sum_Ve1(n):
-  return n(n+1)/2
+def get_Sum_ver2(n):
+  sum = 0
+
+  for i in range(1, n+1):
+    sum = sum + in
+
+  return  sum
