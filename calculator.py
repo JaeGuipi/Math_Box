@@ -13,3 +13,6 @@ def divide_new(a, b):
 
 def get_Madian(a, b):
   return (a+b)/2
+
+def get_Sum_Ve1(n):
+  return n(n+1)/2
